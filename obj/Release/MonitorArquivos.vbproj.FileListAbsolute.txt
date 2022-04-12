@@ -1,0 +1,14 @@
+G:\CDRJ2020\MonitorArquivos\bin\Release\MonitorArquivos.exe.config
+G:\CDRJ2020\MonitorArquivos\bin\Release\MonitorArquivos.exe
+G:\CDRJ2020\MonitorArquivos\bin\Release\MonitorArquivos.pdb
+G:\CDRJ2020\MonitorArquivos\bin\Release\MySql.Data.dll
+G:\CDRJ2020\MonitorArquivos\bin\Release\Google.Protobuf.dll
+G:\CDRJ2020\MonitorArquivos\bin\Release\MySql.Data.xml
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.vbprojAssemblyReference.cache
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.Resources.resources
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.ProjectInstaller.resources
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.vbproj.GenerateResource.cache
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.vbproj.CoreCompileInputs.cache
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.vbproj.CopyComplete
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.exe
+G:\CDRJ2020\MonitorArquivos\obj\Release\MonitorArquivos.pdb

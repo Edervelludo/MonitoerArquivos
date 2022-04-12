@@ -1,0 +1,5 @@
+Microsoft (R) .NET Framework Installation utility Vers∆o 2.0.50727.9136
+Copyright (c) Microsoft Corporation. Todos os direitos reservados.
+
+Ocorreu uma exceá∆o ao inicializar a instalaá∆o:
+System.BadImageFormatException: N∆o foi poss°vel carregar arquivo ou assembly 'file:///G:\CDRJ2020\MonitorArquivos\bin\x86\Debug\MonitorArquivos.exe' ou uma de suas dependàncias. N∆o Ç poss°vel carregar este assembly, pois ele foi compilado em um tempo de execuá∆o mais recente que o carregado..
